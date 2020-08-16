@@ -1,0 +1,50 @@
+@charset "ISO-8859-1";
+body{
+  font-family: 'Homer Simpson UI', sans-serif;
+  font-size: 16px;
+}
+
+button{
+ text-decoration: none;
+    text-decoration: none;
+    padding: 3px;
+    padding-left: 10px;
+    padding-right: 10px;
+    font-family: helvetica;
+    font-weight: 300;
+    font-size: 25px;
+    font-style: italic;
+    color: #fff;
+    background-color: #fff;
+    border-radius: 15px;
+    border: 3px double #fff;
+}
+
+img{
+  max-width: 100%;
+  height: auto;
+}
+
+figure{
+  margin: 0;
+}
+
+input, select, textarea{
+  width: 100%;
+  border: 1px solid #696969;
+  box-sizing: border-box;
+  padding: 0 20px;
+  margin: 0 0 20px;
+  height: 70px;
+  line-height: 70px;
+  text-align: center;
+  border-radius: 5px;
+}
+
+.verde{
+  background-color: #6CC067;
+}
+
+.azul{
+  background-color: #2271b3;
+}
